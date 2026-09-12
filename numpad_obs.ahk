@@ -88,9 +88,6 @@ sceneTexts := [
     mainGui.AddText("w250", "4  " scene4),
     mainGui.AddText("w250", "5  " scene5),
     mainGui.AddText("w250", "6  " scene6),
-    mainGui.AddText("w250", "7  " scene7),
-    mainGui.AddText("w250", "8  " scene8),
-    mainGui.AddText("w250", "9  " scene9)
 ]
 
 
